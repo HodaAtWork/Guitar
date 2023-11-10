@@ -10,7 +10,7 @@ Subjects I'd like to dive into might be:
 - harmonics, both natural and artificial
 - relations action, bridge and strings
 
-![](./LavaNeck/20231105_bwv999_lava_neck.mp4)
+![Play without thumb on neck](./LavaNeck/20231105_bwv999_lava_neck.mp4)
 
 ```python
 
