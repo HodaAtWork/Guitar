@@ -11,6 +11,11 @@ Subjects I'd like to dive into might be:
 - relations action, bridge and strings
 
 LavaNeck/20231105_bwv999_lava_neck.mp4
+<figure class="video_container">
+ <video controls="true">
+ <source src=".LavaNeck/20231105_bwv999_lava_neck.mp4" type="video/mp4">
+ </video>
+</figure>
 ```python
 
 ```
