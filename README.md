@@ -8,7 +8,8 @@ Subjects I'd like to dive into might be:
 - location of frets on the fretboard
 - string tension
 - harmonics, both natural and artificial
-- relations action, bridge and strings 
+- relations action, bridge and strings
+
 LavaNeck/20231105_bwv999_lava_neck.mp4
 ```python
 
