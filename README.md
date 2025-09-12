@@ -10,6 +10,7 @@ Subjects I'd like to dive into might be:
 - harmonics, both natural and artificial
 - relations action, bridge and strings
 
+A 2020 initiative by Fernando Riscado Cordas to play Bach's Prelude BWV999 without touching the guitar's neck: The Neck is Lava Guitar Challenge.
 ![Play without thumb on neck](./LavaNeck/20231105_bwv999_lava_neck2.mp4)
 
 ```python
