@@ -13,6 +13,7 @@ Subjects I'd like to dive into might be:
 A 2020 initiative by Fernando Riscado Cordas to play Bach's Prelude BWV999 without touching the guitar's neck: The Neck is Lava Guitar Challenge.
 ![Play without thumb on neck](./LavaNeck/20231105_bwv999_lava_neck2.mp4)
 
+A Guitar Blog was added at the end of 2025. Of course the blog code can be used for other subjects as well. Building helped me in understanding Flask, Jinja and Bootstrap.
 ```python
 
 ```
