@@ -1,0 +1,13 @@
+<!--#
+# Tutorial https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+#
+# STEP 6 displaying single post
+#-->
+
+{% extends 'base.html' %}`
+
+{% block content %}
+    <h2>{% block title %} {{post['title']}} {% endblock %}</h2>
+    <span class="badge bg-primary">{{ post['created'] }}</span>
+    <p>{{post['content'] | safe}}</p>
+{% endblock %}

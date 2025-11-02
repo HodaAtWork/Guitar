@@ -1,0 +1,12 @@
+<!--#
+# Tutorial https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+#
+# try it myself
+# -->
+
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>{% block title %} About the blog {% endblock %}</h2>
+<p>{{joke}}</p>
+{% endblock %}
